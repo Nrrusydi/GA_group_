@@ -1,0 +1,6 @@
+﻿  main1.cpp
+C:\Users\user\source\repos\groupProject\groupProject\main1.cpp(16,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\source\repos\groupProject\groupProject\main1.cpp(283,6): warning C4101: 'crossover_point': unreferenced local variable
+C:\Users\user\source\repos\groupProject\groupProject\main1.cpp(333,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\groupProject\groupProject\main1.cpp(403,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  groupProject.vcxproj -> C:\Users\user\source\repos\groupProject\Debug\groupProject.exe
